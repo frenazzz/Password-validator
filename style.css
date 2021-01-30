@@ -31,6 +31,9 @@ input {
     background-color: transparent;
     color: rgb(255, 255, 255);
 }
+input:focus {
+    outline: none;
+}
 
 .passinfo {
     font-size: 18px;
